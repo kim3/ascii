@@ -1,8 +1,9 @@
 ASCII Art Text Generator
 =====
 
-ascii art text using http://talkera.org.cp-in-1.webhostbox.net/ascii/ascii.php
 
+ascii art text using http://talkera.org.cp-in-1.webhostbox.net/ascii/ascii.php
+<pre>
        ___           ___         ___           ___           ___           ___     
       /\  \         /\  \       /\  \         /\__\         /\__\         /\  \    
      /::\  \        \:\  \      \:\  \       /:/  /        /:/  /        /::\  \   
@@ -33,3 +34,4 @@ ascii art text using http://talkera.org.cp-in-1.webhostbox.net/ascii/ascii.php
  #  ###   #   #   #   # #   # #   # 
  #    #   #   #   #   # #   # #   # 
  ######   #   #   #   # ##### ##### 
+</pre>
